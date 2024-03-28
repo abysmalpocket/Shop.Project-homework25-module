@@ -1,0 +1,33 @@
+.wrapper__about-product {
+	color: #000;
+	text-align: center;
+}
+
+.about-product__title {
+	margin: 0;
+	padding: 0;
+	font-size: 50px;
+	text-decoration: underline;
+}
+
+.about__product-image {
+	width: 300px;
+	height: 400px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+
+.other__image {
+	margin-right: 15px;
+	border-radius: 10px;
+}
+
+.product__description-text {
+	font-size: 20px;
+}
+
+.price {
+	font-size: 20px;
+}
+
